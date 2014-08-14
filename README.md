@@ -8,5 +8,4 @@ The expected result would be that the nodes named 3 and 4 should respectively sh
 
 
 
-
-08/13/2014 - Uploaded the application EvenOdd
+08/13/2014 - First upload of the application which includes the header, module and configuration files.
